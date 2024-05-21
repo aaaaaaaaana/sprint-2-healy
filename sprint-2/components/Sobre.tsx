@@ -295,7 +295,7 @@ const style = StyleSheet.create({
 
   overlayConheca: {
     position: 'absolute',
-    top: '80%',
+    top: '40%',
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#FBF9F7', 
